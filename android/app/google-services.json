@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "442806403213",
+    "project_id": "nirvhoy-c4e8a",
+    "storage_bucket": "nirvhoy-c4e8a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442806403213:android:4a5fd43c7402a884c3e2c4",
+        "android_client_info": {
+          "package_name": "com.example.nirbhoy_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5lPkBBtApRgY3wKjkMSOasi7DF_SznA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:442806403213:android:4a5fd43c7402a884c3e2c4",
+        "android_client_info": {
+          "package_name": "com.example.nirvhoy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5lPkBBtApRgY3wKjkMSOasi7DF_SznA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
